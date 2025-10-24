@@ -46,8 +46,9 @@ From web apps to mobile applications and games — I turn ideas into reliable, s
 ---
 
 ### 💬 Let's Connect
-- 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/kuntal-gupta1994/))  
-- 📧 Reach me at: **kuntalgupta1994@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/kuntal-gupta1994/) 
+- 📧 Email: **kuntalgupta1994@gmail.com** | **dev.kuntal1994@gmail.com**  
+- 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/8801744968888)
 
 ---
 
